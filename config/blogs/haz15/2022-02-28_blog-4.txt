@@ -1,0 +1,18 @@
+Author: Hancheng Zuo 
+Week: 4 (28/02/22)
+
+Assigned actions
+================
+Action 1: Try to implement some simple method of chance card classes.
+
+In the implementation process, it was found that the methods of related ship objects and island objects were lacking, the related methods were not perfect, and some simple opportunity card classes were implemented. Because some object methods are not perfect, the chance card class object is temporarily processed with pseudo code.
+
+Hours: 2
+
+Other project work
+==================
+Discuss with the group leader some further refinement of the object method.
+
+Hours: 1
+
+Total hours: 3

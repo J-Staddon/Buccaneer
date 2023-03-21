@@ -1,0 +1,23 @@
+Author: dym27
+Week 6: (14/03/2022)
+
+Assigned actions
+================
+
+Action 1: Continue working on JavaFX UI
+
+I worked on the UI "todo" list written by ses35.
+I also spent time on re-writing the initialize method in the board controller so that the board maintains a constant aspect ratio.
+
+Hours: 3
+
+Other project work
+==================
+
+I had issues compiling the project and was not able to get a successful build which made debugging UI elements difficult and made
+it hard to commit changes to the project. I instead researched JavaFX, and how I can properly incorporate css into it in a
+maintainable way so that I can quickly and effectively catch up with the "todo" list once I can properly build the project.
+
+Hours: 2
+
+Total hours: 5

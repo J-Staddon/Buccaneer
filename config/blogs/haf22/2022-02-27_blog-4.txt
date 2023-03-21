@@ -1,0 +1,22 @@
+Author: Hassan Farooq
+Week Date: 27/02/2022
+
+Assigned Actions
+==================================================
+Action 1: Work on testing table
+
+Added more functional requirements test to the testing table and added 
+refrences
+
+Hours 3:
+
+Other project work
+==================================================
+
+Action 1: Code Tests
+
+Added some more drafts of tests
+
+Hours 1:
+
+Total hours: 4

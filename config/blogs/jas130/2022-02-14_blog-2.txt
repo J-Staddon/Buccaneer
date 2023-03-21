@@ -1,0 +1,32 @@
+Author: jas130
+Week 2: (14/02/2022)
+
+Assigned actions
+================
+
+Action 1: Read the User Interface specification and Quality Assurance docemnts
+
+I read through the quality assurance and structure documents and went back over the user interface document.
+
+Hours: 1
+
+Action 2: Go over the use case
+
+I discussed the use cases with my other UI group memeber and made a list.
+
+Hours: 1
+
+Action 3: Furture the UI design
+
+I spent some time creating a UI on photoshop, taking into account the use case documentation.
+
+Hours: 4
+
+Other project work
+==================
+
+I then created a presentation for the group and added annotations to the UI.
+
+Hours: 1
+
+Total hours: 7

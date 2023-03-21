@@ -1,0 +1,24 @@
+Author: kap48
+Week: 7 (21/03/2022)
+
+Assigned actions
+===================
+Action 1: 
+
+Developed further automated testt in the BackendTest class
+
+Hours: 3
+
+Other project work
+====================
+
+Action 1:
+
+Further analysed the backend code and passed my comments and suggestions to the backend team.
+
+Made some initial changes to the Test Specification document after the review.
+
+Hours: 3
+
+
+Total hours: 6

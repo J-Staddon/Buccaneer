@@ -1,0 +1,27 @@
+Author: ses35
+Week 8: (28/03/2022)
+
+Assigned actions
+================
+
+Action 1: Further work on the design spec.
+
+Added some more detail to the design spec.
+
+Hours: 1
+
+Action 2: Modify behaviour of ship movement on first round.
+
+Reviewed the functional requirements, they already abide to the rules. Will discuss with manager what is wrong.
+
+Hours: 1
+
+Other project work
+==================
+
+Design Spec Review
+Fixed ship colour issues.
+
+Hours: 2
+
+Total Hours: 4

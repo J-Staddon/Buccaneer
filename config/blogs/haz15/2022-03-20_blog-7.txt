@@ -1,0 +1,31 @@
+Author: Hancheng Zuo 
+Week: 7 (20/03/22)
+
+Assigned actions
+================
+
+Action 1: Developed a new board scene and beautify new scene elements and picture materials
+
+I redesigned a new board scene which was fully imitated by the UI design documents. And I set it a fixed size that can not be dragged to resize by the user. I also added animation effects to the scene GUI nodes, improved the layout of GUI elements and beautified the scene.
+
+Hours: 10
+
+Action 2: Beautify and improve the start scene and user input scene
+
+Added the animations effects to the GUI nodes and some new GUI nodes，which can give the user bring more and complete functional experience.
+
+Hours: 2
+
+Action3: Complete the button switching function of board scene and the layout design of temporary UI template
+
+Hours: 1
+
+Other project work
+==================
+
+Add and improve the scene switching function of the main scene and input scene
+
+Hours: 1
+
+
+Total hours: 14

@@ -1,0 +1,22 @@
+Author: ses35
+Week 4: (28/02/2022)
+
+Assigned actions
+================
+
+Action 1: Continue Work on Island Code
+
+I continued work on the island code implementing static instances for big islands.
+
+Hours: 2
+
+Other project work
+==================
+
+Implemented Jays photoshop menus into the UI.
+Implemented a gameloop system for ship turns and movement testing.
+Performed some tests for data dependencies on the Chance Cards.
+
+Hours: 5
+
+Total Hours: 7

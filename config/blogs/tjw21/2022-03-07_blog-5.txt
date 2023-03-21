@@ -1,0 +1,29 @@
+Author: tjw21
+Week: 5(07/03/22)
+
+Assigned Actions
+=================
+Action 1: Begin work on the design spec
+
+I went over each section of the design spec standards document so I could understand what
+would be required for each part of the design spec document. Also, I added to the 
+introduction section of the document what I thought would be included based on what I read
+in the standards document.
+
+Hours: 1
+
+Action 2: Create work spreadsheet
+
+created a spreadsheet of how many hours everyone has done each week and what they worked on.
+
+Hours: 2
+
+Other project work
+===================
+Read the feedback on the UI Spec and Repository and made a list of actions for this week
+and planned out who to assign them to. Also, began to fix some of the issues mentioned 
+about the UI spec.
+
+Hours: 3 
+
+Total hours: 6

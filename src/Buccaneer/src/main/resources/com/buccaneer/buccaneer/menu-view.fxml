@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.buccaneer.controllers.MenuController">
+    <ImageView>
+        <image>
+            <Image url="@image/UI_main_menu.png" />
+        </image>
+    </ImageView>
+   <Label styleClass="label_play" layoutX="440.0" layoutY="370.0" prefHeight="54.0" prefWidth="105.0" onMouseClicked="#playPressed" />
+   <Label styleClass="label_instructions" layoutX="350.0" layoutY="440.0" onMouseClicked="#instructionsPressed" prefHeight="45.0" prefWidth="302.0" />
+</AnchorPane>

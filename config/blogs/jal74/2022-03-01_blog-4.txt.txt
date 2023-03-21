@@ -1,0 +1,29 @@
+Author: jal74
+Week: 4 (01/03/22)
+
+Assigned actions
+===============
+Action 1: Make a new version of the repository and merge the dev branch into the main branch. 
+
+The repository was updated in terms of versions and the dev branch was merged with the main branch. I looked over the documents to see if they were suitably formatted
+
+Hours: 1
+
+Action 2: Work on the dev directory and it's files
+
+I came up with an simple example of what the files in the dev folder could look like if the group agree and the project manager approves. 
+
+Hours: 0.5
+
+Other project work
+================
+I had to write this week's (week 4) minutes document while keeping to the standards given in the SE.QA.02.
+Hours: 0.5
+
+I went through everyone's blogs in order to make sure they are structured properly and informed group members of the changes they would need to make if i found any
+Hours: 0.5
+
+I reviewed the UI spec in order to make sure it was up to standard
+Hours: 1
+
+Total hours: 3.5

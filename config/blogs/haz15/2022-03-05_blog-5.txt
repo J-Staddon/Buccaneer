@@ -1,0 +1,26 @@
+Author: Hancheng Zuo 
+Week: 5 (05/03/22)
+
+Assigned actions
+================
+Action 1: Preliminarily complete the background design of board view and collect some element images
+
+Add background to various controls of border view interface and collect element materials of various transparent backgrounds.
+
+
+Hours: 2
+
+Action 2: Create the corresponding method and ID for the control
+
+Hours: 1
+
+Action3: Attend the test spec review
+
+Hours:2
+
+
+Other project work
+==================
+
+
+Total hours: 5

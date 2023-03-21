@@ -1,0 +1,40 @@
+Author: jal74
+Week: 5 (08/03/22)
+
+Assigned actions
+===============
+Action 1: Email Chris Loftus about the dev directory
+
+I emailed Chris Loftus in order to get a better understanding of what the contents of the dev directory should be as we weren't fully sure if the way we intended to do it was acceptable.
+
+Hours: 0.5
+
+
+Action 2: Review the test spec
+
+I had to review the test spec in order to make sure it was up to standards set in the second and sixth document and then make any changes needed
+
+Hours: 1.5
+
+Action 3: Create a skelton document for the Design Spec
+
+I had to make the document and it's front page, contents, introduction and change history
+
+Hours: 1.5
+
+
+Other project work
+================
+I had to make the minutes for this week 
+Hours: 0.5
+
+I went over the blogs in order to make sure they were formatted as specified
+Hours: 0.5
+
+I had to change many of the minutes documents from previous weeks due to feedback from Chris Loftus needing to review our UI spec
+Hours: 1.5
+
+I needed to change the config-refs file in order to comply with the feedback as stated above.
+Hours: 1
+
+Total hours: 7

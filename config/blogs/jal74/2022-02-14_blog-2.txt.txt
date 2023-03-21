@@ -1,0 +1,29 @@
+Author: jal74
+Week: 2 (14/02/22)
+
+Assigned actions
+===============
+Action 1: Go over the "User Interface Specification Standards" SE.QA.04 document
+
+Hours: 0.25
+
+Action 2: Go over the "Quality Assurance" SE.QA.01 document
+
+I have already gone over the document last week and so i was already caught up on what it entails 
+
+Hours: 0 
+
+Action 3: Go over all documents regarding the structure of their assigned task
+
+Considering that my role is the QA manager, all the documents are relevant and so i had to read SE.QA 4 through 10
+
+Hours: 2 
+
+Other project work
+================
+I went through the blogs for the first week and changed anything that needed to be changed in order to adhere to the standards set in QA.08 document.
+Then I went over the Minutes documents that we had made so far and checked they adhered to the standards set in the QA.02 document.
+
+Hours: 0.5
+
+Total hours: 2.75

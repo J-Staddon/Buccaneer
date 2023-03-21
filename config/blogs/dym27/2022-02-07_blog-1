@@ -1,0 +1,36 @@
+Author: dym27
+Week 1: (07/02/2022)
+
+Assigned actions
+================
+
+Action 1: Read requirements of project.
+
+I printed, read and made notes on the requirements specification, I also read over the Group Intro documents.
+
+Hours: 1.5
+
+Action 2: Clone group repository.
+
+I cloned the group project and ensured that I can properly pull from it.
+
+Hours: 0.5
+
+Action 3: Start looking at JavaFX to make example screens.
+
+I looked into implementing the front-end of the program programmatically, and with FXML.
+I researched the use of "Scene-Builder" when making JavaFX UIs, and started work on a basic screen.
+I researched the use of style-sheets when using JavaFX.
+
+Hours: 3
+
+Other project work
+==================
+
+I researched project management aiding software, primarily what Maven is and how to use it.
+I started thinking about possible ways of overcoming UI problems, and how to adapt the physical
+game into something that can be shown using a single screen.
+
+Hours: 1
+
+Total hours: 6

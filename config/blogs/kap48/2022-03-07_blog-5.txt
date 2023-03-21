@@ -1,0 +1,20 @@
+Author: kap48
+Week: 5 (07/03/2022)
+
+Assigned actions
+===================
+Action 1: 
+
+Final changes to the Testing Requirements Document
+
+Hours: 2
+
+
+Other project work
+====================
+Added OS-specific dependencies in the Maven file so that the conflicts don't occur anymore
+
+Hours: 1
+
+
+Total hours: 3

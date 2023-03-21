@@ -1,0 +1,26 @@
+Author: jas130
+Week 5: (07/03/2022)
+
+Assigned actions
+================
+
+Action 1: Attend Test Specification review
+
+I went over the test specification with a few group memebers to see what need to be changed
+
+Hours: 1
+
+Action 2: Help the JavaFX team with designing the UI
+
+I gave the JavaFX team more assets and discussed with them how the UI will work in detail
+
+Hours: 2
+
+Other project work
+==================
+
+I made improvements on UI Specification after receiving feedback
+
+Hours: 2
+
+Total hours: 5

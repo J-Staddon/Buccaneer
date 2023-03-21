@@ -1,0 +1,21 @@
+Author: jas130
+Week 6: (14/03/2022)
+
+Assigned actions
+================
+
+Action 1: Remake the user interface presentation
+
+I spent my time rethinking the presentation and improving on it
+
+Hours: 3
+
+
+Other project work
+==================
+
+I created a gif for the attack use case
+
+Hours: 1
+
+Total hours: 4

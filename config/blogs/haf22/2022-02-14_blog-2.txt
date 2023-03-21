@@ -1,0 +1,29 @@
+Author: Hassan Farooq
+Week Date: 14/02/2022
+
+Assigned Actions
+==================================================
+Action 1: Testing table
+
+My task was to go over the testing documents and requirement specification 
+for buccaneer document in order to create a draft testing table and document
+with some test linked to the functional requirements.
+
+Hours 2:
+
+Other project work
+==================================================
+
+Action 1: Creating and setting up a skeleton document
+
+I also created a skeleton testing document.
+
+Hours 1:
+
+Action 2: Junit
+
+I also though about how we could represent some of the tests in Junit.
+
+Hours 1:
+
+Total hours: 4

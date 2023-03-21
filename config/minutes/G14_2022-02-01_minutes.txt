@@ -1,0 +1,60 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: All project members except Kacper, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 1st February 2022
+
+Circulation list: All project members, plus project manager
+Author: Laurence Tyler
+Date of minutes: 4th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+NONE - first meeting of group
+
+New business:
+===========
+1. Membership of group
+
+Kacper Prywata  [kap48]
+Sebastian Sogan [ses35]
+Jay Staddon     [jas130]
+Dylan Murphy    [dym27]
+Thomas Wilkinson    [tjw21]
+Jac Lingard     [jal74]
+Hassan Farooq   [haf22]
+Hancheng Zuo    [haz15]
+Ali Bajwa       [alb113]
+
+Manager: Laurence Tyler, email: lgt
+
+2. Setting up the project arrangements
+
+2.1 All group members need to read the Project requirements and Group Intro documents by next week and know about what the project will do.
+ACTION: Everyone
+
+2.2 All group members to check how to add blog entries on a weekly basis to the group GitLab repository. See SE.QA.08 for details. Add your first blog entry to the repository before the next tutorial.
+ACTION: Everyone
+
+4. Initial Tasks
+
+4.1 Thomas and Jay will read SE.QA.04 and start work on material for the user interface document. They will also start putting together some possible screens in Powerpoint.
+ACTION: tjw21, jas130
+
+4.2 Hassan and Kacper will read SE.QA.06 and start drafting a list of repeatable tests.   They will sketch some tests for functional requirements  (Hassan for FR1, FR2, FR3, Kacper for FR4, FR5, FR6) from the Requirements specification.
+ACTION:  haf22, kap48
+
+4.3 Dylan, Sebastian and Ali will start looking at the technical issues of the project. 
+Dylan will use JavaFX to make some example screens for the application. 
+Sebastian and Ali will investigate architecturem, such as how to represent states: state design pattern, and also investigate the options for saving Java objects to persistent storage and tell us next week what the choices are.
+ACTION: dym27, ses35, alb113
+
+4.4 Eric and Jac will look at documents SE.QA01, SE.QA.02, SE.QA.03 before next week and come along ready to summarise them in 5 minutes for the group.
+ACTION: haz15, jal74
+
+
+AOB
+===
+NONE
+
+Minutes by lgt, 01/02/2022.

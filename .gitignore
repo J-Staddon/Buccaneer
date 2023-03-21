@@ -1,0 +1,11 @@
+#Idea Config
+.idea
+
+#Compiled Classes
+target
+
+#MAC
+.DS_store
+
+#Game Persistent Storage
+save.dat

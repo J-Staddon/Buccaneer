@@ -1,0 +1,27 @@
+Author: ses35
+Week 5: (07/03/2022)
+
+Assigned actions
+================
+
+Action 1: Test Specification Review
+
+Reviewed the test specification during our weekly meeting.
+
+Hours: 2
+
+Action 2: Documentation of code
+
+Documented major sections of the code that I have written.
+
+Hours: 1
+
+Other project work
+==================
+
+Continued prototyping, implemented a coordinate movement system
+via map clicks. Implemented a fight detection algorithm.
+
+Hours: 2
+
+Total Hours: 5

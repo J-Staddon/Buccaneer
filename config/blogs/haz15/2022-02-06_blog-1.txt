@@ -1,0 +1,28 @@
+Author: Hancheng Zuo 
+Week: 1 (06/02/22)
+
+Assigned actions
+================
+Action 1: Read the Project requirements and Group Intro documents
+
+Intensive reading of project requirements document and Group introduction document. And discuss and analyze the play details of Buccaneer board game with the group meeting.
+
+Hours: 4
+
+Action 2: Add my first blog entry to the repository
+
+Read the SE.QA.08 specification document. Upload standard blog entry which meets specification requirement according to the managing blogs section.
+
+Hours: 1
+
+Action 3: Look at documents SE.QA01, SE.QA.02, SE.QA.03 and summarise them
+
+Intensive reading the documents SE.QA01, SE.QA.02, SE.QA.03. Record and summarize the important key points and prepare to present them in 5 minutes for the group.
+
+Hours: 3
+
+Other project work
+==================
+None. 
+
+Total hours: 8

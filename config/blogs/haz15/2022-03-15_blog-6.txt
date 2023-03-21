@@ -1,0 +1,22 @@
+Author: Hancheng Zuo 
+Week: 6 (15/03/22)
+
+Assigned actions
+================
+
+Action 1: Eric needs to continue work on the board
+
+Redesign the size of the main stage and redesign the size of the scene according to the size of the stage. And the layout pane also needs to redesign for the new stage design. I made a plan and I am going to focus on the new size of stage.
+
+Hours: 2
+
+
+Other project work
+==================
+
+Rearrange various GUI nodes, collect and modify new scene materials.
+
+Hours: 2
+
+
+Total hours: 4

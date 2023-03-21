@@ -1,0 +1,26 @@
+Author: dym27
+Week 5: (07/03/2022)
+
+Assigned actions
+================
+
+Action 1: Review test spec
+
+I read through the current test specification document.
+
+Hours: 0.5
+
+Action 2: Work on JavaFX front end.
+
+I spent time further learning about JavaFX, added a ship image, and improved the way that the players possible movement options are presented to the player.
+
+Hours: 2.5
+
+Other project work
+==================
+
+I caught up with the teams actions that I had missed in the past 2 weeks.
+
+Hours: 2
+
+Total hours: 5

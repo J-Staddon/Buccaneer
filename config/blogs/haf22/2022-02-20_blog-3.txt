@@ -1,0 +1,27 @@
+Author: Hassan Farooq
+Week Date: 20/02/2022
+
+Assigned Actions
+==================================================
+Action 1: Work on testing table
+
+Added more functional requirements test to the testing table
+
+Hours 2:
+
+Other project work
+==================================================
+
+Action 1: Code Tests
+
+Started to setup classes for code testing
+
+Hours 1:
+
+Action 2: Junit - GUI
+
+I also looked at how we could do some GUI tests, by automating some user behaviour.
+
+Hours 1:
+
+Total hours: 4

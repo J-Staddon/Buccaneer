@@ -1,0 +1,35 @@
+Author: ses35
+Week 1: (05/02/2022)
+
+Assigned actions
+================
+
+Action 1: Read the requirements from the online specification.
+
+I had a read of the requirements and started mapping how each problem could be solved and implemented.
+
+Hours: 1
+
+Action 2: Read up on how to add blog entries
+
+I read up the about the formatting of blog entries and created a template to use in using the specification 2.4.4.
+
+Hours: 0.5
+
+Action 3: Research on Architecture
+
+Produced a file on Architectural Design of the Program. Went through several potential UI design methods
+and made suggestions for which to use in which scenario. Did some research in java object mapping
+persistence, via JDBC, JPA or Json. Started some prototyping of these designs.
+
+Hours: 2.5
+
+Other project work
+==================
+
+Set up the git repository and permissions.
+Set up a maven JavaFX project with relevant projects to allow cross-platform development/testing.
+
+Hours: 2
+
+Total hours: 6

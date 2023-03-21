@@ -1,0 +1,23 @@
+Author: kap48
+Week: 2 (14/02/2022)
+
+Assigned actions
+===================
+Action 1: 
+
+Prepared sketches for the rest of the FRs
+
+Hours: 3
+
+
+Other project work
+====================
+
+Action 1:
+Started sketching code for the tests according to the specification
+
+
+Hours: 2
+
+
+Total hours: 5

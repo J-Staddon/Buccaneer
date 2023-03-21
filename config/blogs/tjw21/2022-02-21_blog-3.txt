@@ -1,0 +1,30 @@
+Author: tjw21
+Week: 3(21/02/22)
+
+Assigned Actions
+=================
+Action 1: Work on UI document
+
+Added typical users to the use case document based on the examples in the UI specification 
+
+Hours: 2
+
+Action 2: Work on online presentation to give a working example of the UI
+
+Continued working with jas130 to improve the previous weeks presentation to include working
+links and more visualisations of game states and use cases.
+
+Hours: 2
+
+Action 3: Create timeline for deliverables hand ins
+
+Made notes on when each document needs to be handed in and began working out when the 
+reviews should be.
+
+Hours: 1
+
+Other project work
+===================
+N/A
+
+Total hours: 5

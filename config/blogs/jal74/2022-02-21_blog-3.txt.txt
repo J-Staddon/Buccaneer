@@ -1,0 +1,32 @@
+Author: jal74
+Week: 3 (21/02/22)
+
+Assigned actions
+===============
+Action 1: Go Through the SE.QA.08 document and check that the main branch of the repository is as the document describes how it should be
+
+There were some changes that needed doing like adding a config_refs file to the config file, adding files to the docs directory for the individual files to go in and create a dev file as we were missing it
+
+Hours: 1
+
+Action 2: Sort out the problem with having 2 versions of the week 2 minutes
+
+I got rid of the second document while making sure the original document contained all the updates made to it
+
+Hours: 0.5
+
+Action 3: Watch videos / read guides on more advanced ways of using GitLab in order to be able to take advantage of all of GitLab's tools
+
+I watched some videos showing different things that you can do using GitLab and i also read guides / articles in order to get a better undestanding of how GitLab works. I will continue to research this in order to be confident with using the system we have and to be able to make any necessary adjustments.
+
+Hours: 3
+
+Other project work
+================
+I had to write this week's (week 3) minutes document while keeping to the standards given in the SE.QA.02.
+Hours: 0.5
+
+I went through everyone's blogs in order to make sure they are structured properly and informed group members of the changes they would need to make if i found any
+Hours: 0.5
+
+Total hours: 5.5

@@ -1,0 +1,17 @@
+Author: tjw21
+Week: 7(21/03/22)
+
+Assigned Actions
+=================
+Action 1: Work on the design spec
+
+Added the Significant classes section and the programs in system section to the 
+decomposition description. 
+
+Hours: 4
+
+Other project work
+===================
+N/A
+
+Total hours: 4

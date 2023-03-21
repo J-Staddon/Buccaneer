@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.buccaneer.controllers.InputController"
+            prefHeight="400.0" prefWidth="600.0"
+            stylesheets="@style.css">
+
+    <ImageView>
+        <image>
+            <Image url="@image/UI_menu_player_name.png"/>
+        </image>
+    </ImageView>
+    <TextField fx:id="one" layoutX="508" layoutY="375" maxWidth="136" minHeight="33"/>
+    <TextField fx:id="two" layoutX="508" layoutY="410" maxWidth="136" minHeight="33"/>
+    <TextField fx:id="three" layoutX="508" layoutY="446" maxWidth="136" minHeight="33"/>
+    <TextField fx:id="four" layoutX="508" layoutY="482" maxWidth="136" minHeight="33"/>
+    <Label styleClass="label_play_game" layoutX="427" layoutY="522" prefHeight="30.0" prefWidth="130.0" onMouseClicked="#playPressed"/>
+</AnchorPane>

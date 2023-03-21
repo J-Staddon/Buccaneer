@@ -1,0 +1,22 @@
+Author: ses35
+Week 6: (14/03/2022)
+
+Assigned actions
+================
+
+Action 1: Work on coding tests
+
+Spent time coding tests for the backend MapSquare and ObjectLoader.
+
+Hours: 2
+
+Other project work
+==================
+
+Implemented the username input screen on the UI.
+Implemented FR15 arriving at ports via coordinate system.
+Used FR15 to check fight conditions and started implementing FR14.
+
+Hours: 5
+
+Total Hours: 7

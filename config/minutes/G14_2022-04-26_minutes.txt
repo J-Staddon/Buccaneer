@@ -1,0 +1,36 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: Jac, Sebastian, Jay, Eric and Kacper plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 26th April 2022
+
+Circulation list: All project members, plus project manager
+Author: Jac Lingard
+Date of minutes: 27th April 2022
+Version: 1.0
+
+Matters arising:
+============
+
+1. Tests, Code and documentation work needs to be worked on 
+
+
+New business:
+===========
+
+1. Integration week
+
+1.1 The tests need to be finished by Friday the 6th as well as a test report needs to be made
+ACTION: Everyone
+
+1.2 Documentation needs to be updated and finished if there are any gaps in work
+ACTION: Everyone
+
+1.3 The code will need to be finished by Friday the 6th
+ACTION: Everyone
+
+
+AOB
+===
+NONE	`
+
+Minutes by jal74, 27/04/2022.

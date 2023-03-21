@@ -1,0 +1,29 @@
+Author: Hassan Farooq
+Week Date: 06/02/2022
+
+Assigned Actions
+==================================================
+Action 1: Reading documents
+
+My task was to go over the test, quality assurance and 
+also general documents in order try and familiarise myself
+with the layout of documenting the testing/testing plans
+and what kind of tests there are and who is responsible for
+them.
+
+Also provide some sketches/drafts of tests for FR1, FR2, and FR3.
+
+Hours 3:
+
+Other project work
+===================
+
+Action 1: Reading requirements spec
+
+I also went over the requirements spec document in order
+to gather an idea where the base tests could derrive from
+which in this case will be the functional requirements.
+
+Hours 1:
+
+Total hours: 4

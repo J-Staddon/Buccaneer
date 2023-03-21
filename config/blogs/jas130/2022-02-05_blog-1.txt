@@ -1,0 +1,36 @@
+Author: jas130
+Week 1: (05/02/2022)
+
+Assigned actions
+================
+
+Action 1: Read the requirments and specification for the project
+
+I looked through the requirment documentation and made notes of what we would have to achieve in this project.
+
+Hours: 1
+
+Action 2: Learn how to add blog entries to repository
+
+I look through the git bash documentation and discussed with my group on what to do.
+
+Hours: 1
+
+Action 3: Look into the basics of the User Interface
+
+I started by reading through the User Interface specification
+I then discussed with the other UI researcher on the team what we will need to include in the game to make
+it understandable and also playable. I then did my own research into the different problems we may run into,
+such as, how to display the cards and change the number of players to 4.
+
+Hours: 2
+
+Other project work
+==================
+
+Learnt the rules of bucaneer and play tested it.
+Discussed with the team what we think needs to be done when creating the game.
+
+Hours: 1
+
+Total hours: 5

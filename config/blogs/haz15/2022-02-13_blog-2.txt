@@ -1,0 +1,28 @@
+Author: Hancheng Zuo 
+Week: 2 (13/02/22)
+
+Assigned actions
+================
+Action 1: Represent chance cards object class in java
+
+Initialize some chance cards objects and establish related parent-child inheritance classes.
+
+Hours: 1
+
+Action 2: Represent ports object class in java
+
+Analyze the initialization properties of the ports object class and form its related parent-child relationship classes.
+
+Hours: 1
+
+Action 3: Look at documents SE.QA.04
+
+Read relevant specification documents.
+
+Hours: 1
+
+Other project work
+==================
+None. 
+
+Total hours: 3

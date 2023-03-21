@@ -1,0 +1,24 @@
+Author: jas130
+Week 7: (21/03/2022)
+
+Assigned actions
+================
+
+Action 1: Add in additional checks inline with UI Spec
+
+I wrote some code for when the user enters player names, creating different requirments for the enteries
+
+Hours: 2
+
+Action 2: Write and complete the Interface Description in the Design Specification
+
+I Spent a few hours going through the code and then creating a interface description based on what classes we have
+
+Hours: 4
+
+Other project work
+==================
+
+None
+
+Total hours: 6

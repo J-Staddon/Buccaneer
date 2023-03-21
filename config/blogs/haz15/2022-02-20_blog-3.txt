@@ -1,0 +1,16 @@
+Author: Hancheng Zuo 
+Week: 3 (20/02/22)
+
+Assigned actions
+================
+Action 1: Continuing Looking at Objects and their interactions in the program.
+
+Continue to create chance card classes and try to explore some simple methods to implement chance cards.
+
+Hours: 2
+
+Other project work
+==================
+None. 
+
+Total hours: 2

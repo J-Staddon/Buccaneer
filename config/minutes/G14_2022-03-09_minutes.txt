@@ -1,0 +1,58 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: All project members except Ali plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 8th March 2022
+
+Circulation list: All project members, plus project manager
+Author: Jac Lingard
+Date of minutes: 9th March 2022
+Version: 1.0
+
+Matters arising:
+===========
+1. Blogs have yet to be fully completed for all previous weeks
+
+2. The test spec draft has been finished, reviewed and submitted 
+
+3. All the group members previously working on the code have made progress and will continue to work on it.
+
+4. Thomas and Jay have made progress on the spreadsheet and will continue on it 
+
+5. We have recieved advice on what the dev folder should contain and will start on it this week
+
+New business:
+===========
+1. Keeping up to date
+
+1.1 All group members to add a 6th blog to the repository by 5pm on monday.
+ACTION: Everyone
+
+
+2. Initial Tasks
+
+2.1 Jac needs to make a minutes document for the test spec review
+ACTION: jal74, 
+
+2.2 Thomas and Jay need to continue with the work spreadsheet
+ACTION: tjw21, jas130
+
+2.3 Jac and Kacper work on the dev folder
+ACTION: jal74, kap48
+
+2.4 Eric needs to continue work on the board
+ACTION: haz15
+
+2.5 Thomas and Jay need to work on the improvements to the UI spec and presentation based on the feedback from Chris' review
+ACTION: tjw21, jas130
+
+2.6 Sebastian will work on coding the tests
+ACTION: ses35
+
+2.7 Jac needs to improve the repository to be in the format that the QA documents and the feedback have given
+ACTION: jal74
+
+AOB
+===
+Everyone needs to make sure the project manager is informed about anyone being absent before the weekly meeting
+
+Minutes by jal74, 09/03/2022.

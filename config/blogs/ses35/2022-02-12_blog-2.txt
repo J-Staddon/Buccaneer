@@ -1,0 +1,26 @@
+Author: ses35
+Week 2: (12/02/2022)
+
+Assigned actions
+================
+
+Action 1: Looking at Objects and their interactions in the program.
+
+I went through the requirements specification in detail and produced a plan for linking the UI
+to backend data objects involved in the game. This includes linking map squares to objects such as
+ship and ports. Having ships and ports including data classes such as treasure and crew cards for trading.
+I also had to decide which classes would be declared as abstract and used as a baseclass for instances with
+different data. I then produced the chance card class with an interface so the base instance can be overridden
+by super classes for unique interactions. The original map square class extends the UI stackpane allowing the UI
+to access all of these backend data classes.
+
+I additionally setup a diagram to present these interactions as it is important for these interactions to be
+understood in detail by the group so the backend code can be implemented correctly.
+
+Hours: 4
+
+Other project work
+==================
+None.
+
+Total Hours: 4

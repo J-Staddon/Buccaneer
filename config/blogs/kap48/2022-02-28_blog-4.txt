@@ -1,0 +1,23 @@
+Author: kap48
+Week: 4 (28/02/2022)
+
+Assigned actions
+===================
+Action 1: 
+
+Finished the Testing Requirements Document
+
+Hours: 2
+
+
+Other project work
+====================
+
+Action 1:
+Analyzed the structure of the back end code, decided which test will be automated and which ones will be conducted manually
+
+
+Hours: 2
+
+
+Total hours: 4

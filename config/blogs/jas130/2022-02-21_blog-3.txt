@@ -1,0 +1,24 @@
+Author: jas130
+Week 3: (21/02/2022)
+
+Assigned actions
+================
+
+Action 1: Add the use cases to the User Interface specification
+
+I went back over the UI specification requirments and added the different use cases read for a formal review
+
+Hours: 3
+
+Action 2: Create the User Interface Presentation
+
+I spent some time creating the prototype game in PowerPoint
+
+Hours: 2
+
+Other project work
+==================
+
+None
+
+Total hours: 5

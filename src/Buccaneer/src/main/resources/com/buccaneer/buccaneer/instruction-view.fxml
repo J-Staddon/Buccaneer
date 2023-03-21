@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.buccaneer.controllers.InstructionController">
+    <ImageView>
+        <image>
+            <Image url="@image/finished_instruction_ui.png" />
+        </image>
+    </ImageView>
+   <Label layoutX="92.0" layoutY="116.0" onMouseClicked="#onBackPressed" prefHeight="50.0" prefWidth="60.0" styleClass="label_return" />
+</AnchorPane>

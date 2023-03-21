@@ -1,0 +1,69 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: All project members except Kacper, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 15th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Jac Lingard
+Date of minutes: 17th February 2022
+Version: 1.1
+
+Matters arising:
+===========
+1. All group members have caught up on the appropriate documentation
+
+2. Thomas and Jay have started the UI design and will continue with working on it. They also gave a presentation on use cases.
+
+3. Hassan and Kacper have made a resting table.
+
+4. Dylan, Sebastian, Ali and Eric have started to work on the coding aspect of the project and will continue to work on this 
+
+5. Jac has looked over the review standards and configuration management documents
+
+New business:
+===========
+1. Membership of group
+
+Project Leader: Thomas Wilkinson [tjw21]
+Deputy: Jay Staddon [jas130]
+
+2. Keeping up to date
+
+2.1 All group members need to read the documents relavent to the work they are doing in order to have a better understanding of their work's contents and how their work should be presented/submitted.
+ACTION: Everyone
+
+2.2 All group members to add a 3rd blog to the repository by 5pm on monday.
+ACTION: Everyone
+
+2.3 All group members need to make sure they change the version of the documents they are working on every time they are updated / revised.
+ACTION: Everyone
+
+
+3. Initial Tasks
+
+3.1 Thomas and Jay need to explore more use-cases.
+ACTION: tjw21, jas130
+
+3.2 Hassan and Kacper need to continue working on a draft of the Test spec in order for it to be ready by the week starting the 28th.
+ACTION: haf22, kap48
+
+3.3 Jac needs to make sure the repository is as it's described in the QA documents and research into more advanced ways of using GitLab.
+ACTION: jal74
+
+3.4 Sebastion, Eric and Dylan need to continue with the work they have been doing (stated in the previous minutes document).
+ACTION: ses35, dym27, haz15
+
+3.5 Ali needs to complete and upload a blog for the second week
+ACTION: alb113
+
+3.6 Jac needs to sort out the problem with the 2 versions of the minutes for the second week and make sure only one is on the repository.
+ACTION: jal74
+
+3.7 Thomas, Jay and Ali need to finish the User Interface spec to the standards stated in QA.04 in order to be submitted at the next weekly meeting.
+ACTION: alb113, jas130, tjw21
+
+AOB
+===
+NONE
+
+Minutes by jal74, 17/02/2022.

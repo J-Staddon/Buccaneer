@@ -1,0 +1,29 @@
+Author: Hassan Farooq
+Week Date: 12/03/2022
+
+Assigned Actions: NONE
+==================================================
+
+
+Other project work
+==================================================
+
+Action 1: Code Tests
+
+Added drafts of tests
+
+Hours 1:
+
+Action 2: Added skeleton code 
+
+Added code for potential way to test some GUI elements
+
+Hours 1:
+
+Action 3: Testing table
+
+Went over the test table to check again if all tests made sense
+
+Hours 2:
+
+Total hours: 4

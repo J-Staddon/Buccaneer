@@ -1,0 +1,32 @@
+Author: jal74
+Week: 1 (06/02/22)
+
+Assigned actions
+===============
+Action 1: Read the "Requirements Specification for Buccaneer Online Board Game" and "Group Project Overview" documents found on blackboard
+
+I learnt the basics of the buccanneer game and went over the project overview to know what i needed to to over the next semester.
+
+Hours: 1
+
+Action 2: Check how to add blog entries on a weekly basis and add a blog for the first week
+
+I looked through the relevant part of the 8th document and made a blog adhering to it's specifications for the first week of the semester.
+
+Hours: 0.5
+
+Action 3: Look at the 1st, 2nd and 3rd documents and summarise them to the group in 5 minutes.
+
+In order to accomplish this I did the following:
+-Scanned through the "Quality Assurance Plan" document 
+-Scanned through the "General Documentation Standards" document 
+-Scanned through the "Project Mangement Standards" document 
+-Summerised the 3 documents in order to breifly explain to the group
+
+Hours: 1
+
+Other project work
+================
+None
+
+Total hours: 2.5

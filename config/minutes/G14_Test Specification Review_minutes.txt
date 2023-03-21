@@ -1,0 +1,43 @@
+CS22120 Project: Group 14
+Meeting: Test Spec Formal Review
+Persons present: All project members except Ali 
+Place and date of meeting: Hugh Owen Library, Wednesday 2nd March 2022
+
+Circulation list: All project members, plus project manager
+Author: Jac Lingard
+Date of minutes: 16th March 2022
+Version: 1.0
+
+Matters arising:
+===========
+1. Test Specification document needs to be refered to the QA documents (QA.02, QA.06, QA.08) in order to make sure it is up to standard
+
+2. Any faults with the Test Specification that have been identified in the formal review need to be addressed before the Test Specification is submitted
+
+New business:
+===========
+1. Faults identified
+
+1.1 The page count was wrong as there were 18 pages but the count said out of 6 pages
+
+1.2 The configuration reference was empty on the cover page
+
+1.3 The Changes History table was incomplete as there was no 'Issue No.' column
+
+
+2. Faults fixed
+
+2.1 The Page count was changed so that it now says 'X page out of 18' which is the correct amount of pages
+ACTION: jal74
+
+2.2 The configuration reference was filled in after an appropriate cofiguration reference was made
+ACTION: haf22, jal74, haz15, jas130
+
+2.3 The Changes History table was appended to include an 'Issue No.' column
+ACTION: jal74
+
+AOB
+===
+None
+
+Minutes by jal74, 16/03/2022.

@@ -1,0 +1,37 @@
+Author: kap48
+Week: 1 (31/01/22)
+
+Assigned actions
+===================
+Action 1: Project Overview
+1. Read the Group Project Overview document
+
+2. Got familiar with QA.08 - Operating Procedures and Configuration Management, and prepared a short summary
+
+3. Got familiar with QA.02 - General Documentation Standards, and prepared a short summary
+
+4. Cloned the group repository and uploaded the first blog
+
+Hours: 1
+
+
+Action 2: Testing 
+1. Read QA document and 6(Test Procedure Standards) and prepared notes for the group meeting
+
+2. Read the 'Requirements Specification for Buccaneer' document
+
+3. Prepared sketches for functional requirements 4, 5 and 6 basing on it
+
+Hours: 2
+
+
+Other project work
+====================
+
+Action 1:
+Learnt the rules of the game and tested it with the team in practice
+
+Hours: 1
+
+
+Total hours: 4

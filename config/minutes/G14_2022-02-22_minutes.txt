@@ -1,0 +1,63 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: All project members except Hassan and Dylan, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 22nd February 2022
+
+Circulation list: All project members, plus project manager
+Author: Jac Lingard
+Date of minutes: 23rd February 2022
+Version: 1.1
+
+Matters arising:
+===========
+1. Thomas and Jay have explored more use cases
+
+2. Hassan and Kacper have continued to work on the test spec but it is still in progress
+
+3. Jac has made some changes to the repository but it still needs some changes
+
+4. Sebastian, Eric and Dylan are still working through the code
+
+5. Jac has dealt with the issue of having 2 minutes documents for the second week
+
+6. Thomas, Jay and Ali have finished a draft of the UI spec
+
+7. Some members of the group need to revisit the blogs to make sure they are all complete
+
+New business:
+===========
+
+1. Keeping up to date
+
+1.1 All group members to add a 4th blog to the repository by 5pm on monday.
+ACTION: Everyone
+
+
+2. Initial Tasks
+
+2.1 Thomas and Jay need to finish any small changes needed for the UI spec before review
+ACTION: tjw21, jas130
+
+2.2 Hassan and Kacper need to continue working on a draft of the Test spec and have some console based testing 
+ACTION: haf22, kap48
+
+2.3 Jac needs to make sure the repository has a dev folder with all the necessary files and merge to the main branch
+ACTION: jal74
+
+2.4 Sebastian and Ali need to continue work on the islands code
+ACTION: ses35, alb113
+
+2.5 Thomas and Jac need to make sure the versions on the documents have been updated
+ACTION: jal74, tjw21
+
+2.6 Eric needs to finish work on the chance cards
+ACTION: haz15
+
+2.7 Dylan needs to continue with the JavaFX work (possibly with help)
+ACTION: dym27
+
+AOB
+===
+NONE
+
+Minutes by jal74, 23/02/2022.

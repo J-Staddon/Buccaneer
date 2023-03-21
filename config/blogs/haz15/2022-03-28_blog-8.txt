@@ -1,0 +1,23 @@
+Author: Hancheng Zuo 
+Week: 8 (28/03/22)
+
+Assigned actions
+================
+
+Action 1: Designed a text box on the main board scene
+
+The text box is used to display some information of the player. It takes a text box image as the background and uses label GUI nodes to display the player's information on it.
+
+Hours: 1
+
+Action 2: Designed a end scene for the game
+
+The end scene takes a Pirate Island image as the background, and is set with two buttons to restart the game and exit the game respectively. There is a label at the top to show which player wins.
+
+Hours: 2
+
+Other project work
+==================
+
+
+Total hours: 3

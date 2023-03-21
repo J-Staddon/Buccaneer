@@ -1,0 +1,19 @@
+Author: tjw21
+Week: 8(28/03/22)
+
+Assigned Actions
+=================
+Action 1: Work on the design spec
+
+Improved the structure of the document and made sure that all the formatting was the same as 
+it is in the other documents we have done up to this point. 
+
+Hours: 2
+
+Other project work
+===================
+Updated the work timeline for the last 2 weeks.
+
+Hours: 2
+
+Total hours: 4

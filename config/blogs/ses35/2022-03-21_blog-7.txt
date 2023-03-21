@@ -1,0 +1,23 @@
+Author: ses35
+Week 7: (21/03/2022)
+
+Assigned actions
+================
+
+Action 1: Further work on the design spec.
+
+I completed a draft of the dependency description section.
+Including a uml diagram for a potential interaction between key objects.
+
+Hours: 2
+
+Other project work
+==================
+
+Fixed backend issues after UI overhaul.
+Completed a prototype for the trade system.
+Fixed issues with the repository.
+
+Hours: 4
+
+Total Hours: 6

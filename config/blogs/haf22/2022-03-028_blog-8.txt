@@ -1,0 +1,32 @@
+Author: Hassan Farooq
+Week Date: 28/03/2022
+
+Assigned Actions: Fix Test Document
+==================================================
+Action 1: Testing Specification
+
+Fixed document formatting with the testing specification and closed some issues and created a new online testing table which the whole group can have access to.
+
+
+
+Other project work
+==================================================
+
+
+Hours 1:
+
+Action 1: Testing code
+
+Added some more testing code drafts
+
+Hours 1;
+
+Action 2: Chance cards
+
+Drafted pseudo code for chance cards
+
+Hours 1;
+
+
+
+Total hours: 3

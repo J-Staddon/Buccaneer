@@ -1,0 +1,34 @@
+Author: jal74
+Week: 7 (21/03/22)
+
+Assigned actions
+===============
+Action 1: Check the UI spec and presentation after the most recent changes
+
+I went over the UI spec and presentations and noted any changes needed and then made sure the design spec and test spec didn't also have these faults.
+
+Hours: 1.5
+
+Action 2: Work on the design spec
+
+I made more progress on the design in order for it to be closer to completion
+
+Hours: 4
+
+Action 3: Work on the dev file
+
+I moved the code from the src folder to a 'draft code' folder inside the dev directory
+
+Hours: 0
+
+
+Other project work
+================
+I had to make the minutes for this week 
+Hours: 0.5
+
+I went over the blogs in order to make sure they were formatted as specified
+Hours: 0.5
+
+
+Total hours: 6.5

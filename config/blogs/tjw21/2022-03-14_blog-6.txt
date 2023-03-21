@@ -1,0 +1,30 @@
+Author: tjw21
+Week: 6(14/03/22)
+
+Assigned Actions
+=================
+Action 1: Continue on the work spreadsheet
+
+Added this weeks information on each group members hours and completed tasks
+
+Hours: 1
+
+Action 2: Create gitlab issues and improve UI spec
+
+Created issues in gitlab for each of the points made by chris for improvement to the UI Spec
+and the repository and assigned them to the appropriate group member. Also, completed all of
+the issues which I assigned to myself for the UI spec including addng more detail to the 
+error conditions and numbering them appropriatly as well as fixing the versioning and 
+document history for both the UI spec and design spec.
+
+Hours: 4
+
+Other project work
+===================
+Worked on the structure of the design spec and made it more in line with that of the UI spec
+which I has already altered to fit with the word template in the documents folder on 
+blackboard.
+
+Hours: 1
+
+Total hours: 6

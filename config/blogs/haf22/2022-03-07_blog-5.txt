@@ -1,0 +1,27 @@
+Author: Hassan Farooq
+Week Date: 07/03/2022
+
+Assigned Actions
+==================================================
+Action 1: Work on testing table draft
+
+Finished the testing table and added some potential GUI button tests
+
+Hours 2:
+
+Other project work
+==================================================
+
+Action 1: Code Tests
+
+Added more drafts of tests
+
+Hours 1:
+
+Action 2: Robot class
+
+Looked at the robot class which could be useful for testing button clicks or emulating some gameplay
+
+Hours 1:
+
+Total hours: 4

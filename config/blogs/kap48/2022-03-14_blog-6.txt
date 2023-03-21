@@ -1,0 +1,26 @@
+Author: kap48
+Week: 6(14/03/2022)
+
+Assigned actions
+===================
+Action 1: 
+
+I've cleaned up the structure of the repository
+Added .gitignore files so that the 
+and OS-specific dependencies in the IntelliJ project don't cause conflicts
+
+Added dev folder including:
+- "draft code" folder where the pre - release version of the program is stored
+- documents monitoring our progress up to this weeks tutorial
+
+Hours: 2
+
+
+Other project work
+====================
+
+
+Hours: 2
+
+
+Total hours: 4

@@ -1,0 +1,27 @@
+Author: kap48
+Week: 2 (14/02/2022)
+
+Assigned actions
+===================
+Action 1: Test table
+
+Turned my sketches for the functional requirements into test specification table and starting preparing sketches for the rest of FRs
+
+Hours: 2
+
+
+Other project work
+====================
+
+Action 1:
+Familiarised myself with JUnit, watched tutorial on the main tools it provides
+
+Action: 
+
+Action 2:
+I've read the chapter on software testing from Sommerville
+
+Hours: 2
+
+
+Total hours: 4

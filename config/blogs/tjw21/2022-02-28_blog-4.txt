@@ -1,0 +1,29 @@
+Author: tjw21
+Week: 4(28/02/22)
+
+Assigned Actions
+=================
+Action 1: Work on UI document based on review
+
+Improved the error conditions section and the general structure of the UI document based on
+notes from other members of the group. 
+
+Hours: 2
+
+Action 2: Created schedule of all deliverable dates and reviews for each
+
+Made a schedule and sent it out to all the group members so they have an idea of the 
+project timeline.
+
+Hours: 1
+
+Other project work
+===================
+Read through the design specification standards and made notes as I plan to start work on it 
+after next weeks meeting and assign some group members to it. Created a skeleton document 
+for the Design specification. Also, I have gone through the project code that has been done 
+this week to make sure I can help with and understand connecting the backend code to the UI.
+
+Hours: 4
+
+Total hours: 7

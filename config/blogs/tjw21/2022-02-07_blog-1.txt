@@ -1,0 +1,32 @@
+Author: tjw21
+Week: 1(07/02/22)
+
+Assigned Actions
+=================
+Action 1: Setting up the project arrangements
+
+Read through the Project Requirements and Group Info documents and highlighted the lines I
+saw as the key points/information. Also, created this first blog entry and pushed it to the 
+correct folder in the Group repository.
+
+Hours: 2
+
+Action 2: Initial Task
+
+Read SE.QA.04 and highlighted key information and made notes on things that I thought might
+help with elements of the UI document and some questions I think we need to answer though 
+the coming weeks. Then I created some sketches of possible layouts for the main game display
+based on the information set out in SE.QA.04 and the buccaneer requirements document.
+
+Hours: 2
+
+Other project work
+=====================
+Some of the group met up to attempt to play the game and make sure we understood how it was
+played and what we'd need on the screen during play. Discussed possible implementations of 
+some of the more ambiguous chance cards and how the layout of the game for 4, instead of 6,
+players would affect gameplay.
+
+Hours: 2
+
+Total hours: 6

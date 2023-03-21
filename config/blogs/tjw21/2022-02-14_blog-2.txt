@@ -1,0 +1,35 @@
+Author: tjw21
+Week: 2(14/02/22)
+
+Assigned Actions
+=================
+Action 1: Review Documents
+
+Read and made notes on the documents we were told to read
+
+Hours: 1
+
+Action 2: Creating skeleton document for UI
+
+Using SE.QA.02 and SE.QA.04 I created a skeleton document that fits the standards set out in
+SE.QA.02 and included all the sections that are specified in SE.QA.04 for the use case 
+document. Filled out the introduction section.
+
+Hours: 2
+
+Action 3: Creating presentation to represent the UI
+
+worked with jas130 to produce a visual prototype of the UI to put in an online presentation 
+as part of the UI documentation.
+
+Hours: 1
+
+Other project work
+===================
+Worked with the group to start coming up with some ideas on how the game will actually be 
+implemented as well as how we will link the back end code to the UI. Also, decided on the 
+team leader.
+
+Hours: 1
+
+Total hours: 5

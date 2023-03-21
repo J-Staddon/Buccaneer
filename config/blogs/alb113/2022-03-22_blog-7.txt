@@ -1,0 +1,17 @@
+Author: Ali Bajwa
+Week Date: 14/03/2022
+
+Assigned Actions
+==================================================
+Help with desgin spec on shared google doc.
+
+Action 1:
+Discuss what we need for the design spec
+
+hours: 1
+
+Action 2: 
+Create UML sequence diagrams for use cases.
+
+hours: 2
+

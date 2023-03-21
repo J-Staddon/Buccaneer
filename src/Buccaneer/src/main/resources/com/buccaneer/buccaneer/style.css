@@ -1,0 +1,170 @@
+.backgroundTile {
+    -fx-background-color: #c3ffff
+}
+
+.backgroundTileAlt {
+    -fx-background-color: #8deaea
+}
+
+.backgroundIsland {
+    -fx-background-color: #c2b280
+}
+
+.backgroundDock {-fx-border-color: #c2b280;
+    -fx-border-width: 4
+}
+.backgroundDock0 {-fx-border-color: #ff6c6c;
+    -fx-border-width: 4
+}
+.backgroundDock1 {-fx-border-color: #8384e7;
+    -fx-border-width: 4
+}
+.backgroundDock2 {-fx-border-color: #fffd00;
+    -fx-border-width: 4
+}
+.backgroundDock3 {-fx-border-color: #01fd00;
+    -fx-border-width: 4
+}
+
+/*change player colors here*/
+.bg0{-fx-background-color: #ff6c6c
+}
+.bg1{-fx-background-color: #8384e7
+}
+.bg2{-fx-background-color: #fffd00
+}
+.bg3{-fx-background-color: #01fd00
+}
+
+.shipImageAny{
+    -fx-background-image: url("image/ships/ship.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageN{
+    -fx-background-image: url("image/ships/north.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageS{
+    -fx-background-image: url("image/ships/south.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageE{
+    -fx-background-image: url("image/ships/east.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageW{
+    -fx-background-image: url("image/ships/west.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageNW{
+    -fx-background-image: url("image/ships/northWest.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageNE{
+    -fx-background-image: url("image/ships/northEast.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageSW{
+    -fx-background-image: url("image/ships/southWest.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageSE{
+    -fx-background-image: url("image/ships/southEast.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.shipImageTranslucent{
+    -fx-background-image: url("image/ships/translucent.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.fightImage{
+    -fx-background-image: url("image/ships/combat.png");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}
+
+.label_compass:hover {
+    -fx-text-fill: #FFFFFF;
+}
+.label_onboard:hover {
+    -fx-text-fill: #FFFFFF;
+}
+
+.Top3_button {
+    -fx-background-color: #D3AD2A;
+    cursor: pointer; // seems like Cursor.HAND
+}
+
+.Top3_button:hover{
+    -fx-background-color: #FFFFFF;
+}
+
+.label_play{
+    -fx-background-image: url("image/play_white.png");
+}
+.label_play:hover{
+    -fx-background-image: url("image/play_yellow.png");
+}
+.label_instructions{
+    -fx-background-image: url("image/instructions_white.png");
+}
+.label_instructions:hover{
+    -fx-background-image: url("image/instructions_yellow.png");
+}
+.label_play_game{
+    -fx-background-image: url("image/play_game_white.png");
+}
+.label_play_game:hover{
+    -fx-background-image: url("image/play_game_yellow.png");
+}
+.label_return{
+    -fx-background-image: url("image/return_white.png");
+}
+.label_return:hover{
+    -fx-background-image: url("image/return_yellow.png");
+}
+
+.end_button{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-family: Arial Bold;
+    -fx-font-size: 28;
+}
+.end_button:hover{
+    -fx-background-color: black;
+    -fx-text-fill: orange;
+    -fx-font-family: Arial Bold;
+    -fx-font-size: 28;
+}
+.text-area {
+    -fx-background-color: transparent;
+}
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}

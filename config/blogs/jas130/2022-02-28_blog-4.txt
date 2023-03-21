@@ -1,0 +1,26 @@
+Author: jas130
+Week 4: (28/02/2022)
+
+Assigned actions
+================
+
+Action 1: Finalise the UI documentation
+
+I spent my time discussing what we needed to improve with our document and acting in the feedback
+
+Hours: 5
+
+Action 2: Create assets for the Java FX team to use in their UI development
+
+I took images from my Photoshop UI design and turned different elements into assets
+
+Hours: 2
+
+Other project work
+==================
+
+As sub-team leader, I supported a team member on what they should use their time for
+
+Hours: 1
+
+Total hours: 8

@@ -1,0 +1,62 @@
+CS22120 Project: Group 14
+Meeting: Weekly Project Meeting
+Persons present: All project members plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 8th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Hassan Farooq
+Date of minutes: 8th February 2022
+Version: 1.2
+
+Matters arising:
+===========
+1. Completed blog entries
+
+2. All group members have caught up on the appropriate documentation 
+
+3. The first 3 QA documents where summarised
+
+4. All group members have started on the different work they were assigned and will need to continue to work on them
+
+New business:
+===========
+1. Membership of group
+
+Manager: Laurence Tyler, email: lgt
+Quality Assurance manager: Jac Lingard [jal74]
+Deputy Kacper Prywata [kap48]
+
+2. Review documents
+
+2.1 All group members need to go over the User interface specification standards - SE.QA.04.
+ACTION: Everyone
+
+2.2 All group members need to go over the Quality assurance document - SE.QA.01.
+ACTION: Everyone
+
+2.3 All group members need to look at the documents regarding the structure of their assigned tasks for deliverables.
+ACTION: Everyone
+
+4. Initial Tasks
+
+4.1 Thomas and Jay will start working on a skeleton document for their UI designs and how to represent them and also create a presentation going over the UI design use case.
+ACTION: tjw21, jas130
+
+4.2 Hassan and Kacper will need to create a testing table to provide their functional requirements tests which they drafted this week.
+ACTION:  haf22, kap48
+
+4.3 Dylan, Sebastian, Ali and Hancheng(Eric) will start looking at how they can represent objects and their interactions and present them to the team, 
+Dylan will focus more on the front end, the rest will look at the back end.
+ACTION: dym27, ses35, alb113, haz15
+
+4.4 Jac will start looking at review standards and configuration management for the whole project.
+Action: jal74
+
+
+AOB
+===
+1.If asked to present have appropriate presentation documents
+
+2.Co-operate with team members for tasks that are assigned with other assigned members
+
+Minutes by haf22, 08/02/2022.

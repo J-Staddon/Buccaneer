@@ -1,0 +1,25 @@
+Author: ses35
+Week 3: (18/02/2022)
+
+Assigned actions
+================
+
+Action 1: Continuing Looking at Objects and their interactions in the program.
+
+I took the advice that came out of the last tutorial to improve the treasure
+and port objects. I removed the abstract class and definitions for it to be used
+as more of a class than an object. I additionally changed the port class to island,
+so it can incorporate the flat island data, with a boolean determining if it's a trading post.
+
+Hours: 2
+
+Other project work
+==================
+
+Implemented FR1 to FR10 via object loader class with all the hardcoded default values and calculations related to crew cards and treasure.
+Added basic UI changes to display backend data.
+Refactored the git repository to facilitate weekly versioning, via archive and dev branches.
+
+Hours: 7
+
+Total Hours: 9

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="mainAnchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1024.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.buccaneer.controllers.BoardController">
+   <children>
+      <ImageView fitHeight="${mainAnchor.height}" fitWidth="${mainAnchor.width}" pickOnBounds="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@image/Buccaneer_UI_template.png" />
+         </image>
+      </ImageView>
+      <GridPane fx:id="gridPane" gridLinesVisible="true" layoutX="112.0" layoutY="26.0" maxHeight="1.7976931348623157E308" prefHeight="572.0" prefWidth="585.0" AnchorPane.bottomAnchor="170.0" AnchorPane.leftAnchor="22.0" AnchorPane.rightAnchor="417.0" AnchorPane.topAnchor="26.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+      </GridPane>
+      <Label fx:id="currentPlayer" alignment="CENTER" contentDisplay="CENTER" layoutY="621.0" prefHeight="30.0" prefWidth="92.0" text="Player 1" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="273.0" layoutY="626.0" onMouseClicked="#OnTurnEnded" styleClass="label_onboard" text="End Turn" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="570.0" layoutY="607.0" prefHeight="48.0" prefWidth="0.0" styleClass="label_onboard" text="-">
+         <font>
+            <Font size="39.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="607.0" prefHeight="48.0" prefWidth="0.0" styleClass="label_onboard" text="+">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Pane layoutX="628.0" prefHeight="685.0" prefWidth="396.0">
+         <children>
+            <AnchorPane layoutX="11.0" layoutY="9.0" prefHeight="43.0" prefWidth="375.0" style="-fx-background-color: #000000;" stylesheets="@style.css">
+               <children>
+                  <Button layoutX="1.0" layoutY="25.0" mnemonicParsing="false" onAction="#movePressed" prefHeight="37.0" prefWidth="97.0" styleClass="Top3_button" text="Move" textAlignment="CENTER" AnchorPane.bottomAnchor="3.0" AnchorPane.leftAnchor="3.0" AnchorPane.topAnchor="3.0">
+                     <font>
+                        <Font name="Arial Bold" size="20.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="104.0" layoutY="25.0" mnemonicParsing="false" onAction="#inventoryPressed" prefHeight="37.0" prefWidth="137.0" styleClass="Top3_button" text="Inventory" textAlignment="CENTER" AnchorPane.leftAnchor="103.0" AnchorPane.topAnchor="3.0">
+                     <font>
+                        <Font name="Arial Bold" size="20.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="207.0" layoutY="3.0" mnemonicParsing="false" onAction="#instructionsPressed" prefHeight="37.0" prefWidth="129.0" styleClass="Top3_button" text="Instructions" textAlignment="CENTER" AnchorPane.rightAnchor="3.0" AnchorPane.topAnchor="3.0">
+                     <font>
+                        <Font name="Arial Bold" size="18.0" />
+                     </font>
+                  </Button>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="move_scene" layoutX="16.0" layoutY="100.0" prefHeight="533.0" prefWidth="361.0">
+               <children>
+                  <ImageView fitHeight="325.0" fitWidth="305.0" layoutX="31.0" layoutY="90.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@image/compass.png" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="246.0" layoutY="298.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="SE">
+                     <font>
+                        <Font name="Arial Bold" size="32.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="65.0" layoutY="298.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="SW">
+                     <font>
+                        <Font name="Arial Bold" size="32.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="249.0" layoutY="145.0" onMouseClicked="#OnCompassPress" prefHeight="37.0" prefWidth="46.0" styleClass="label_compass" text="NE">
+                     <font>
+                        <Font name="Arial Bold" size="32.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="73.0" layoutY="145.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="NW">
+                     <font>
+                        <Font name="Arial Bold" size="32.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="289.0" layoutY="219.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="E">
+                     <font>
+                        <Font name="Arial Bold" size="40.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="47.0" layoutY="218.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="W">
+                     <font>
+                        <Font name="Arial Bold" size="40.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="170.0" layoutY="339.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="S">
+                     <font>
+                        <Font name="Arial Bold" size="40.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="168.0" layoutY="104.0" onMouseClicked="#OnCompassPress" styleClass="label_compass" text="N">
+                     <font>
+                        <Font name="Arial Bold" size="40.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <VBox fx:id="inventory_scene1" alignment="CENTER" layoutX="1.0" layoutY="75.0" prefHeight="308.0" prefWidth="396.0" visible="false">
+               <Label fx:id="inventoryText">
+                  <font>
+                     <Font name="Arial Bold" size="20.0" />
+                  </font>
+               </Label>
+               <Button fx:id="tradeButton" alignment="center" layoutX="100" layoutY="400" minHeight="40" minWidth="60" onAction="#tradeClicked" text="Trade" visible="false" />
+            </VBox>
+            <VBox fx:id="inventory_scene2" alignment="CENTER" layoutX="1.0" layoutY="400.0" prefHeight="285.0" prefWidth="396.0" visible="false">
+               <Label fx:id="islandText" visible="false">
+                  <font>
+                     <Font name="Arial Bold" size="20.0" />
+                  </font>
+               </Label>
+            </VBox>
+            <AnchorPane fx:id="instructions_scene" layoutX="11.0" layoutY="68.0" prefHeight="594.0" prefWidth="375.0" visible="false">
+               <children>
+                  <TextArea editable="false" layoutX="10.0" layoutY="18.0" prefHeight="559.0" prefWidth="361.0" styleClass="text_instructions" stylesheets="@style.css" text="Treasure Value&#10;Diamonds: 5 points&#10;Rubies: 5 points&#10;Gold Bars: 4 points&#10;Pearls: 3 points&#10;Barrels of Rum: 2 points&#10;&#10;Goal&#10;Be the first player to reach a treasure value of 20.&#10;&#10;Turns&#10;Each turn a player will be able to decide from two options, rotate or move.&#10;&#10;Treasure Island&#10;Landing next to this island will allow the player to pull a chance card. A chance card can have a number of different things on it, including, Treasure, Crew cards or a special card.&#10;&#10;Crew cards&#10;You collect crew cards which have a value from 1 to 3 and are either black or red.&#10;&#10;Moving&#10;You are able to move the total of your crew cards added up in the direction you are facing.&#10;&#10;Attacking&#10;Attacking another player will compare your crew cards by adding up in groups of colours and taking the smaller value from the other. This is your attack value. To attack another player you must move your ship onto the same tile of theirs.&#10;&#10;Port&#10;Your ship can only hold 2 pieces of treasure so you must deliver any treasure you get to your port. If you move to another players port you can trade with them." wrapText="true">
+                     <font>
+                        <Font name="Arial Bold" size="16.0" />
+                     </font>
+                  </TextArea>
+               </children>
+            </AnchorPane>
+         </children>
+      </Pane>
+      <ImageView fitHeight="123.0" fitWidth="396.0" layoutX="114.0" layoutY="657.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/textbox.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="playerText" layoutX="131.0" layoutY="681.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="361.0" AnchorPane.bottomAnchor="36.0" AnchorPane.leftAnchor="131.0" AnchorPane.rightAnchor="532.0" AnchorPane.topAnchor="662.0" />
+      <ImageView fitHeight="85.0" fitWidth="117.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="51.0" AnchorPane.topAnchor="55.0">
+         <image>
+            <Image url="@image/pirateIsland.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="114.0" fitWidth="117.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="256.0" AnchorPane.topAnchor="255.0">
+         <image>
+            <Image url="@image/treasureisland.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="114.0" fitWidth="88.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="490.0" AnchorPane.topAnchor="455.0">
+         <image>
+            <Image url="@image/flatIsland.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
